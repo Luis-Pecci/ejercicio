@@ -1,0 +1,23 @@
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+    animation-timing-function: cubic-bezier(0.165, 0.84, 0.44, 1);
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+  ul{
+      font-size: medium;
+      color: brown;
+  }
+head {
+    font-family: Georgia, 'Times New Roman', Times, serif;animation: alternate;
+    motion-rotation: 2deg;
+}
+   
